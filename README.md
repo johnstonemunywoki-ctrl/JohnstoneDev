@@ -1,32 +1,40 @@
-# Johnstone Munywoki - Web Developer | Nyeri, Kenya 🇰🇪
+# Hi, I'm Johnstone 👋 | Web Developer from Nyeri, Kenya 🇰🇪
 
-### I build fast, clean websites for small businesses.
+> I help small businesses in Kenya go online with fast, affordable websites that work on phone.
 
-Live Website: **Coming Soon - Deploying now**
+![Profile Views](https://komarev.com/ghpvc/?username=johnstonemunyowoki-ctrl&color=blue)
+
+### 🔥 What I Will Build For You
+
+| Business Type | What You Get | Delivery |
+| :--- | :--- | :--- |
+| 🛒 Shop / Duka | Online shop + M-Pesa ready | 3 Days |
+| 💈 Salon / Barber | Booking page + Gallery | 2 Days |
+| 🏫 School / Church | Info site + Events | 3 Days |
+| 👤 Personal Brand | Portfolio that gets jobs | 1 Day |
+
+### ✨ My Work
+
+**🌐 Live Portfolio:** `https://johnstonemunyowoki-ctrl.github.io/JohnstoneDev/` *(deploying...)*
+
+**My Skills:**
+`HTML5` `CSS3` `Responsive Design` `GitHub` `Mobile-First`
+
+### 💎 Why Clients Choose Me
+
+✅ **Based in Nyeri** - We can meet at Jitume Lab, not just online  
+✅ **Phone-First Design** - 80% of Kenyans browse on phone, my sites work perfect on phone  
+✅ **Affordable** - Built for Kenyan small business budget  
+✅ **Fast** - I deliver in 2-3 days, not weeks
+
+### 📬 Let's Work Together
+
+**Best way to hire me:**
+1. Click **Follow** on my GitHub profile
+2. Go to **Issues** tab > **New Issue** > Tell me your business
+3. I will reply in 2 hours
+
+> _"From Jitume Lab Nyeri to the World. Ready to code your vision."_
 
 ---
-
-### What I Do
-- ✅ Business Websites (Shops, Salons, Schools, Churches)
-- ✅ Portfolio Websites for Professionals  
-- ✅ Landing Pages that get customers
-- ✅ Website redesign - make old sites look modern
-
-### My Skills
-`HTML5` `CSS3` `GitHub Pages` `Responsive Design` `M-Pesa Integration Ready`
-
-### Why Work With Me?
-- Based in Nyeri - we can meet at Jitume Lab
-- Fast delivery (2-3 days)
-- Affordable for Kenyan businesses
-- I make your site work on phone + computer
-
-### Contact Me For Work
-- 📧 Email: johnstonemunywoki@gmail.com
-- 📍 Location: Nyeri, Central - Available for remote work worldwide
-- 💼 GitHub: @johnstonemunyowoki-ctrl
-
-> "I may be starting, but I deliver like a pro. Let's build your online presence today."
-
----
-**Looking for a website? Message me - First consultation is FREE**
+⭐ **Available for freelance work - Let's build something great!**
